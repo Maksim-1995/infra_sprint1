@@ -1,0 +1,5 @@
+IP: 158.160.253.0;
+name_taski: https://taski-maksim.duckdns.org;
+name_kittygram: https://kittygram-maksim.duckdns.org;
+login: admin;
+password: admin;
